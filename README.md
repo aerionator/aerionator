@@ -1,6 +1,7 @@
 ### Hello !
 
 - I'm Anis Hanifa, an IT student from Lambung Mangkurat University, South Borneo, Indonesia.
+- My Other GitHub for [School](https://github.com/anishanifa)
 
 **About Me**
 - I'm still learning a lot about programming but I'm growing to have a lot of interest in this world !
